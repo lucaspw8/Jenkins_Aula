@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TempConverter</string>
+    <string name="celsius_fahrenheit">Celsius to Fahreheint</string>
+    <string name="fahrenheit_celsius">Fahreheint to Celsius</string>
+    <string name="temp_value">Temp value</string>
+    <string name="temp_cel">ºC</string>
+    <string name="temp_fah">ºF</string>
+</resources>
